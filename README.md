@@ -47,5 +47,9 @@ Project Processes:
 
     The introduction part is on the right to show the description and the purpose of the project. 
 
+Conclusion
+
+    This project is my first online project so it is not so good looking and less design on it. But I am glad with the course and help of professor and classmates I am able to finish it and present it here. Great experiences through this semester!
+
 
 
